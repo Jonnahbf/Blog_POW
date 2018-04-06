@@ -22,6 +22,8 @@ a {
 a:hover {
 	color: #FFF;
 }
+
+<!-- "p" Es una clase agregada a{ <p></p> de lorem y al <p></p> de derechos de autor en el footer-->
 .p {
 	margin-bottom: 15px;
 	font-size: 12px;
